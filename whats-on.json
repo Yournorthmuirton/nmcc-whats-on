@@ -1,0 +1,187 @@
+{
+ "weekStart": "2026-11-02",
+ "range": "2–8 November",
+ "days": [
+  {
+   "day": 0,
+   "name": "Monday",
+   "date": "2026-11-02",
+   "items": [
+    {
+     "title": "ZHP Perth – Polish Scouts & Guides",
+     "time": "6pm–8pm",
+     "desc": "",
+     "ours": false,
+     "room": "",
+     "link": "https://www.facebook.com/zhpperth/",
+     "sort": "17:45"
+    }
+   ],
+   "free": [
+    {
+     "label": "Daytime",
+     "time": "9am–5pm",
+     "sort": "09:00"
+    }
+   ]
+  },
+  {
+   "day": 1,
+   "name": "Tuesday",
+   "date": "2026-11-03",
+   "items": [
+    {
+     "title": "Royal Voluntary Service Lunch Club",
+     "time": "11:30am–1:30pm",
+     "desc": "Hot lunch and good company",
+     "ours": false,
+     "room": "",
+     "link": "",
+     "sort": "11:15"
+    },
+    {
+     "title": "Tayside Tae Kwon Do",
+     "time": "5pm–8pm",
+     "desc": "Little Tiger Cubs 5–5:45pm, Junior & Family 6–6:50pm, Youth & Intermediate 7–8pm. Free taster session.",
+     "ours": false,
+     "room": "",
+     "link": "https://www.taysidetkd.co.uk/",
+     "sort": "16:45"
+    }
+   ],
+   "free": []
+  },
+  {
+   "day": 2,
+   "name": "Wednesday",
+   "date": "2026-11-04",
+   "items": [
+    {
+     "title": "Futures for Families drop-in",
+     "time": "9:15am–3pm",
+     "desc": "Free employment support for parents from Perth & Kinross Council.",
+     "ours": false,
+     "room": "",
+     "link": "",
+     "sort": "09:00"
+    },
+    {
+     "title": "Be The Best Beginners Football",
+     "time": "4pm–5pm",
+     "desc": "Fun football for toddlers with Be The Best Football Academy.",
+     "ours": false,
+     "room": "",
+     "link": "",
+     "sort": "15:45"
+    },
+    {
+     "title": "Fair City Baton Twirlers",
+     "time": "6pm–8pm",
+     "desc": "",
+     "ours": false,
+     "room": "",
+     "link": "",
+     "sort": "17:45"
+    }
+   ],
+   "free": []
+  },
+  {
+   "day": 3,
+   "name": "Thursday",
+   "date": "2026-11-05",
+   "items": [
+    {
+     "title": "Yoga Perth",
+     "time": "9:20am–10:20am",
+     "desc": "Hatha yoga for beginners and experienced. £6 drop-in.",
+     "ours": false,
+     "room": "",
+     "link": "https://yogaperth.co.uk/weekly-yoga-classes/",
+     "sort": "09:15"
+    },
+    {
+     "title": "Lunchtime Hot Chocolate",
+     "time": "1pm–2pm",
+     "desc": "Free hot chocolate for secondary students",
+     "ours": true,
+     "room": "",
+     "link": "",
+     "sort": "12:30"
+    },
+    {
+     "title": "YMCA Youth Club",
+     "time": "4:30pm–6:30pm",
+     "desc": "",
+     "ours": false,
+     "room": "",
+     "link": "",
+     "sort": "15:45"
+    },
+    {
+     "title": "Slimming World",
+     "time": "7:30pm–8:30pm",
+     "desc": "Weekly weigh-in and support group.",
+     "ours": false,
+     "room": "",
+     "link": "https://www.slimmingworld.co.uk/group/565310",
+     "sort": "18:15"
+    }
+   ],
+   "free": []
+  },
+  {
+   "day": 4,
+   "name": "Friday",
+   "date": "2026-11-06",
+   "items": [
+    {
+     "title": "PKC Digital Skills Class",
+     "time": "9:30am–11:30am",
+     "desc": "Free computer and IT learning with Perth & Kinross Council Adult Learning.",
+     "ours": false,
+     "room": "Small Meeting Room",
+     "link": "",
+     "sort": "09:15"
+    },
+    {
+     "title": "SM Dance Studio",
+     "time": "4pm–5pm",
+     "desc": "",
+     "ours": false,
+     "room": "",
+     "link": "",
+     "sort": "15:45"
+    },
+    {
+     "title": "Perth & Chaos Women's Drum Group",
+     "time": "6:30pm–8:30pm",
+     "desc": "Community drumming group for women.",
+     "ours": false,
+     "room": "",
+     "link": "",
+     "sort": "18:15"
+    }
+   ],
+   "free": []
+  },
+  {
+   "day": 5,
+   "name": "Saturday",
+   "date": "2026-11-07",
+   "items": [
+    {
+     "title": "Weekend Warm-up",
+     "time": "11:30am–1:30pm",
+     "desc": "",
+     "ours": true,
+     "room": "",
+     "link": "",
+     "sort": "08:00"
+    }
+   ],
+   "free": []
+  }
+ ],
+ "hireLink": ""
+}
