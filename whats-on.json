@@ -10,7 +10,7 @@
     {
      "title": "ZHP Perth – Polish Scouts & Guides",
      "time": "6pm–8pm",
-     "desc": "",
+     "desc": "Polish Scouting and Guiding (Związek Harcerstwa Polskiego) for children and young people in Perth.",
      "ours": false,
      "room": "",
      "link": "https://www.facebook.com/zhpperth/",
@@ -62,16 +62,16 @@
      "desc": "Free employment support for parents from Perth & Kinross Council.",
      "ours": false,
      "room": "",
-     "link": "",
+     "link": "https://www.pkc.gov.uk/article/21758/Futures-For-Families-Employment-support-for-parents",
      "sort": "09:00"
     },
     {
      "title": "Be The Best Beginners Football",
      "time": "4pm–5pm",
-     "desc": "Fun football for toddlers with Be The Best Football Academy.",
+     "desc": "Football for ages 2–4 with Be The Best Football Academy.",
      "ours": false,
      "room": "",
-     "link": "",
+     "link": "https://www.bethebestfootballacademy.com/join",
      "sort": "15:45"
     },
     {
@@ -173,7 +173,7 @@
     {
      "title": "Weekend Warm-up",
      "time": "11:30am–1:30pm",
-     "desc": "",
+     "desc": "Free community lunch, open to everyone.",
      "ours": true,
      "room": "",
      "link": "",
