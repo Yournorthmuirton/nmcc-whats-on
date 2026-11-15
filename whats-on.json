@@ -136,6 +136,15 @@
    "date": "2026-11-20",
    "items": [
     {
+     "title": "PKC Services",
+     "time": "9:15am–11:45am",
+     "desc": "",
+     "ours": false,
+     "room": "",
+     "link": "",
+     "sort": "09:00"
+    },
+    {
      "title": "PKC Digital Skills Class",
      "time": "9:30am–11:30am",
      "desc": "Free computer and IT learning with Perth & Kinross Council Adult Learning.",
