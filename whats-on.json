@@ -110,10 +110,10 @@
      "sort": "12:30"
     },
     {
-     "title": "YMCA Youth Club",
+     "title": "P6/7 Youth Club",
      "time": "4:30pm–6:30pm",
      "desc": "",
-     "ours": false,
+     "ours": true,
      "room": "",
      "link": "",
      "sort": "15:45"
