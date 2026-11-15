@@ -1,11 +1,11 @@
 {
- "weekStart": "2026-11-09",
- "range": "9–15 November",
+ "weekStart": "2026-11-16",
+ "range": "16–22 November",
  "days": [
   {
    "day": 0,
    "name": "Monday",
-   "date": "2026-11-09",
+   "date": "2026-11-16",
    "items": [
     {
      "title": "ZHP Perth Polish Scouting Association",
@@ -28,7 +28,7 @@
   {
    "day": 1,
    "name": "Tuesday",
-   "date": "2026-11-10",
+   "date": "2026-11-17",
    "items": [
     {
      "title": "Royal Voluntary Service Lunch Club",
@@ -54,7 +54,7 @@
   {
    "day": 2,
    "name": "Wednesday",
-   "date": "2026-11-11",
+   "date": "2026-11-18",
    "items": [
     {
      "title": "Futures for Families drop-in",
@@ -89,7 +89,7 @@
   {
    "day": 3,
    "name": "Thursday",
-   "date": "2026-11-12",
+   "date": "2026-11-19",
    "items": [
     {
      "title": "Yoga Perth",
@@ -99,6 +99,24 @@
      "room": "",
      "link": "https://yogaperth.co.uk/weekly-yoga-classes/",
      "sort": "09:15"
+    },
+    {
+     "title": "Lunchtime Hot Chocolate",
+     "time": "1pm–2pm",
+     "desc": "Free hot chocolate for secondary students",
+     "ours": true,
+     "room": "",
+     "link": "",
+     "sort": "12:30"
+    },
+    {
+     "title": "YMCA Youth Club",
+     "time": "4:30pm–6:30pm",
+     "desc": "",
+     "ours": false,
+     "room": "",
+     "link": "",
+     "sort": "15:45"
     },
     {
      "title": "Slimming World",
@@ -115,7 +133,7 @@
   {
    "day": 4,
    "name": "Friday",
-   "date": "2026-11-13",
+   "date": "2026-11-20",
    "items": [
     {
      "title": "PKC Digital Skills Class",
@@ -143,6 +161,23 @@
      "room": "",
      "link": "",
      "sort": "18:15"
+    }
+   ],
+   "free": []
+  },
+  {
+   "day": 5,
+   "name": "Saturday",
+   "date": "2026-11-21",
+   "items": [
+    {
+     "title": "Weekend Warm-up",
+     "time": "11:30am–1:30pm",
+     "desc": "Free community lunch, open to everyone.",
+     "ours": true,
+     "room": "",
+     "link": "",
+     "sort": "08:00"
     }
    ],
    "free": []
