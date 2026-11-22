@@ -1,11 +1,11 @@
 {
- "weekStart": "2026-11-16",
- "range": "16–22 November",
+ "weekStart": "2026-11-23",
+ "range": "23–29 November",
  "days": [
   {
    "day": 0,
    "name": "Monday",
-   "date": "2026-11-16",
+   "date": "2026-11-23",
    "items": [
     {
      "title": "ZHP Perth Polish Scouting Association",
@@ -28,7 +28,7 @@
   {
    "day": 1,
    "name": "Tuesday",
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "items": [
     {
      "title": "Royal Voluntary Service Lunch Club",
@@ -54,7 +54,7 @@
   {
    "day": 2,
    "name": "Wednesday",
-   "date": "2026-11-18",
+   "date": "2026-11-25",
    "items": [
     {
      "title": "Futures for Families drop-in",
@@ -89,7 +89,7 @@
   {
    "day": 3,
    "name": "Thursday",
-   "date": "2026-11-19",
+   "date": "2026-11-26",
    "items": [
     {
      "title": "Yoga Perth",
@@ -99,15 +99,6 @@
      "room": "",
      "link": "https://yogaperth.co.uk/weekly-yoga-classes/",
      "sort": "09:15"
-    },
-    {
-     "title": "Lunchtime Hot Chocolate",
-     "time": "1pm–2pm",
-     "desc": "Free hot chocolate for secondary students",
-     "ours": true,
-     "room": "",
-     "link": "",
-     "sort": "12:30"
     },
     {
      "title": "P6/7 Youth Club",
@@ -133,7 +124,7 @@
   {
    "day": 4,
    "name": "Friday",
-   "date": "2026-11-20",
+   "date": "2026-11-27",
    "items": [
     {
      "title": "PKC Services",
@@ -170,23 +161,6 @@
      "room": "",
      "link": "",
      "sort": "18:15"
-    }
-   ],
-   "free": []
-  },
-  {
-   "day": 5,
-   "name": "Saturday",
-   "date": "2026-11-21",
-   "items": [
-    {
-     "title": "Weekend Warm-up",
-     "time": "11:30am–1:30pm",
-     "desc": "Free community lunch, open to everyone.",
-     "ours": true,
-     "room": "",
-     "link": "",
-     "sort": "08:00"
     }
    ],
    "free": []
