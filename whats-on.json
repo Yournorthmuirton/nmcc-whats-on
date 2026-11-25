@@ -164,6 +164,23 @@
     }
    ],
    "free": []
+  },
+  {
+   "day": 6,
+   "name": "Sunday",
+   "date": "2026-11-29",
+   "items": [
+    {
+     "title": "North Muirton Makers Market",
+     "time": "12pm–4pm",
+     "desc": "Local makers and crafters selling handmade gifts.",
+     "ours": false,
+     "room": "",
+     "link": "",
+     "sort": "11:45"
+    }
+   ],
+   "free": []
   }
  ],
  "hireLink": "https://northmuirtoncc.org.uk/contact"
